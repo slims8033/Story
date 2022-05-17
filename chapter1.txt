@@ -1,1 +1,2 @@
 This is the first chapter of story.
+change madde for newplot
